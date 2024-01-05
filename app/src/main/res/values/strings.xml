@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Wellness App</string>
+    <string name="placeholder_search">search</string>
+    <string name="placeholder_searchh">Search</string>
+    <string name="inversion_text">Inversion</string>
+    <string name="nature_meditations">Nature meditations</string>
+    <string name="align_your_body">Align your Body</string>
+    <string name="favorite_collections">Favorite Collections</string>
+    <string name="bottom_navigation_home">Bottom Navigation Home</string>
+    <string name="bottom_navigation_profile">Bottom Navigation Profile</string>
+    <string name="quick_yoga">Quick yoga</string>
+    <string name="stretching">Stretching</string>
+    <string name="tabata">Tabata</string>
+    <string name="hiit">HIIT</string>
+    <string name="pre_natal_yoga">Pre-natal yoga</string>
+    <string name="short_mantras">Short mantras</string>
+    <string name="stress_and_anxiety">Stress and anxiety</string>
+    <string name="self_massage">Self massage</string>
+    <string name="overwhelmed">Overwhelmed</string>
+    <string name="nightly_wind_down">Nightly wind down</string>
+</resources>
